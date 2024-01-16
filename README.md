@@ -1,5 +1,5 @@
 # GutCode
-Should you trust your Gut - Thesis
+Should you trust your Gut? - Thesis
 Author: Darren Biggar
 
 Supervisors: Teresa Schuhmann & Aline Dantas
