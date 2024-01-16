@@ -21,9 +21,6 @@ Additional scripts:
 - empsim_compiler.py
 - empisim_scatterplotter.py
 
-
-# Fast-DM Code
-
 # R Code
 Simulation script:
 - simulate_mvrnorm.R
